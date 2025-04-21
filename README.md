@@ -19,7 +19,7 @@ GPU による正方行列積，Intel DPC++ SYCL による GPU 処理
 CPU, GPU, NPU による正方行列積 (転置行列)，Microsoft VC++ から OpenVINO C++ API を利用
 
 
-## VisualStudio によるコンパイル方法
+## Visual Studio によるコンパイル方法
 
 ### Intel C++ OpenMP によるスレッド化
 
